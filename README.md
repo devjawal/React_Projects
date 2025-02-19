@@ -1,6 +1,6 @@
 📌 Description:
 
-This is a React-based project developed by Me (Devkaran Jawal), showcasing dynamic components, state management, and a modern UI design using Tailwind CSS.
+This is a React-based project developed by me, showcasing dynamic components, state management, and a modern UI design using Tailwind CSS.
 
 🛠 Tech Stack:
 
